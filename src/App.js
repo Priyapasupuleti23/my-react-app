@@ -1,7 +1,7 @@
 // src/App.js
 
 import React from 'react';
-import NewComponent from './components';
+import NewComponent from './Component';
 
 const App = () => {
   return (
